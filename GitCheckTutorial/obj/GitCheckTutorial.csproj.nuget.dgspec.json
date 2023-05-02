@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\siddhant.kashyap\\source\\repos\\SELFLEARNING\\GitCheckTutorial\\GitCheckTutorial\\GitCheckTutorial.csproj": {}
+    "C:\\Users\\shanu.kumar2\\Desktop\\Test\\testing\\GitCheckTutorial\\GitCheckTutorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\siddhant.kashyap\\source\\repos\\SELFLEARNING\\GitCheckTutorial\\GitCheckTutorial\\GitCheckTutorial.csproj": {
+    "C:\\Users\\shanu.kumar2\\Desktop\\Test\\testing\\GitCheckTutorial\\GitCheckTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddhant.kashyap\\source\\repos\\SELFLEARNING\\GitCheckTutorial\\GitCheckTutorial\\GitCheckTutorial.csproj",
+        "projectUniqueName": "C:\\Users\\shanu.kumar2\\Desktop\\Test\\testing\\GitCheckTutorial\\GitCheckTutorial.csproj",
         "projectName": "GitCheckTutorial",
-        "projectPath": "C:\\Users\\siddhant.kashyap\\source\\repos\\SELFLEARNING\\GitCheckTutorial\\GitCheckTutorial\\GitCheckTutorial.csproj",
-        "packagesPath": "C:\\Users\\siddhant.kashyap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddhant.kashyap\\source\\repos\\SELFLEARNING\\GitCheckTutorial\\GitCheckTutorial\\obj\\",
+        "projectPath": "C:\\Users\\shanu.kumar2\\Desktop\\Test\\testing\\GitCheckTutorial\\GitCheckTutorial.csproj",
+        "packagesPath": "C:\\Users\\shanu.kumar2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shanu.kumar2\\Desktop\\Test\\testing\\GitCheckTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\siddhant.kashyap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shanu.kumar2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
